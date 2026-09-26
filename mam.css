@@ -1,0 +1,43 @@
+body{
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('https://i.pinimg.com/originals/03/c2/ff/03c2ff2e06cd871731d8e96fd1113b34.gif');
+}
+footer{
+    position:fixed;
+    bottom: 0%;
+}
+.glitext{
+    background-image: url('https://media.tenor.com/bYghVS31gj4AAAAM/glitter-glam.gif');
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  color: transparent;
+}
+.divider{
+    width: 40%;
+    display:block;
+    margin:auto;
+}
+.vines{
+    width: 1500px;
+    display: block;
+    margin-left: -3%;
+}
+.likeimg{
+    width: 345px;
+    height: 345px;
+}
+p{
+    color: #FF66AD;
+}
+.goback{
+    color: #ff3292;
+}
+.goback:hover{
+    transform: scale(2)
+}
+.blinkies{
+    width: 228px;
+    height: 40px;
+}
