@@ -1,0 +1,89 @@
+body{
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('https://i.pinimg.com/originals/03/c2/ff/03c2ff2e06cd871731d8e96fd1113b34.gif');
+}
+footer{
+    position:fixed;
+    bottom: 0%;
+    left: 47%;
+}
+.code{
+    color: #ff3c91
+}
+.glitext{
+    background-image: url('https://i.pinimg.com/originals/9b/5f/57/9b5f579b43b1e18b640033cfca164476.gif');
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  color: transparent;
+}
+.divider{
+    position: relative;
+    width: 400px;
+    height: 80px;
+    bottom: 20px;
+    display:block;
+    margin:auto;
+}
+.goback{
+    color: #ff3292;
+}
+.goback:hover{
+    transform: scale(2);
+    cursor: url('https://cdn.cursors-4u.net/previews/my-melani-b5f98ca2-preview-50.webp'), pointer;
+
+}
+.hobbies-header{
+   text-align: center;
+}
+.hobbies-text{
+    text-align: center;
+}
+.five{
+    background-image: url('https://i.pinimg.com/originals/7d/08/c5/7d08c51d6811ef1d4d47cd2405a7aedb.gif');
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  color: transparent;
+}
+.four{
+    background-image: url('https://i.pinimg.com/originals/e6/81/0f/e6810fe081d4731ca5ba476929920d13.gif');
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  color: transparent;
+}
+.three{
+    background-image: url('https://img1.picmix.com/output/stamp/normal/1/8/8/7/2277881_4d519.gif');
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  color: transparent;
+}
+.two{
+    background-image: url('https://64.media.tumblr.com/be0a989dc68ba678d871cd82e3ed43c6/8f84efc92095233d-95/s500x750/83e3097a900a5ee0146557887f1637a3a3ddcd8b.gif');
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  color: transparent;
+}
+.one{
+    background-image: url('https://dl.glitter-graphics.com/pub/3703/3703891tuiwgbkg7n.gif');
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  color: transparent;
+}
+.hobbies-img{
+    width: 345px;
+    text-align: center;
+}
+body {
+  cursor: url('https://cdn.cursors-4u.net/previews/my-sweet-piano-cursor-7b54b1ab-preview-60.webp') 10 10, auto;
+}
+.fleur-de-leah-regular {
+  font-family: "Fleur De Leah", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
